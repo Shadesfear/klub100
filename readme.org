@@ -1,2 +1,3 @@
 #+title: README
-* Readme
+* Images
+[[./initial_idea_frontscrene.png]]
